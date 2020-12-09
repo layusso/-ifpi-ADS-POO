@@ -1,4 +1,5 @@
-Questões 1 - 4 ~9;
+#Questões 1 - 4 ~9;
+
 1- Java avaliacao.java ira compilar o software, enquanto avaliacao o executará.
 
 2- Erro por a variável não ser inicializada, por ser int precisa atribuir um valor do tipo inteiro a variavél.
