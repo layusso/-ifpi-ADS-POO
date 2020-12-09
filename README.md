@@ -1,4 +1,4 @@
-# Questões 1 - 4;
+# Questões 1 - 4 ~9;
 
 1- Java avaliacao.java ira compilar o software, enquanto avaliacao o executará.
 
@@ -8,3 +8,4 @@
 
 4 - O comando switch testa todas as condições a partir do caso indicado e imprime o valor. Sem a utilização do brak todos os casos serão testados.
 
+9 - O modelo na questão 8 é a mais estruturada, mais voltada para orientação a objeto, também a mais burocrática, modularizada e reutilizável.
