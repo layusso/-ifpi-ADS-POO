@@ -1,0 +1,12 @@
+1- Para que seja possível executar uma classe em Java, é preciso primeiro compilar um arquivo .java através da instrução de compilação "javac NomeDaClasse.java". A partir de então, a classe poderá ser executada por meio da instrução "java NomeDaClasse." Em suma, javac é o compilador, enquanto o java é o comando da JVM que executa a classe.
+
+
+2-O erro apresentado no momento da compilação mostra que um '(' está faltando após a definição da método main.
+
+3.
+O resultado da execução da classe Exemplo é 9, pois a partir do momento que a condição (a > 11) retorna o valor booleano falso, é executado o bloco System.out.println(a - b);
+
+5.
+Na instrução System.out.println("Soma: " + a + b), há uma concatenação entre os valores 10 e 1, resultando no valor 101. Para que seja resolvido tal problema, é preciso criar uma variável para receber a soma desses mesmos valores, resultando assim em 11.
+
+9- O modelo abordado na questão 8 é o mais estruturado, mais voltado a Orientação a Objeto e que proporciona maior portabilidade e modularização. Também é o mais burocrático pois há a necessidade de criar mais arquivos, e 'digitar mais'.
