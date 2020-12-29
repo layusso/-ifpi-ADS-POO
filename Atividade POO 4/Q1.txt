@@ -1,0 +1,1 @@
+1- Em cada loop do for, o vetor será percorrido e adicionado o valor i em cada posição, em seguida, o valor da posição do loop atual sera mostrado.
